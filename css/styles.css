@@ -1,6 +1,6 @@
 div {
     column-count: 4;
-    column gap: 20px;
+    column-gap: 20px;
     column-rule-style: solid;
     column-rule-color: blue;
 }
